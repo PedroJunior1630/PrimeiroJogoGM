@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Facao","order":6,"path":"sprites/Facao/Facao.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Object5","order":4,"path":"objects/Object5/Object5.yy",},
+  ],
+}
